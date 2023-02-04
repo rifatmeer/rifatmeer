@@ -31,7 +31,7 @@ I am a Front end  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   
 - :telescope: I’m working on frontend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring  Content Writing.
 
 - :zap: In my free time I read tech articles.
 
