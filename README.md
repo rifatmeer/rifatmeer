@@ -6,7 +6,7 @@
    <!--- social media icons --->
    <div align="center">
   
-  <a href="https://www.linkedin.com/in/rifatmeer/">
+  <a href="https://www.linkedin.com/in/rifat-meer-a482a124a">
     <img height="60" alt="rifat meer | LinkedIn"  src="https://user-images.githubusercontent.com/60597290/173852531-4343e250-e3cb-4bdb-b84f-50695c64aa12.png"/>
   </a> 
   <a href="https://www.facebook.com/rifat.meer.3?mibextid=ZbWKwL">
